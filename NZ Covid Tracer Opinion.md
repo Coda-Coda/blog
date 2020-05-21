@@ -1,0 +1,8 @@
+# About NZ Covid Tracer - My Opinion
+Daniel Britten
+
+- I am glad it has been released and I can see its usefulness to the National Contact Tracing System (NCTS).
+- A careful reading of the [Privacy Impact Statement](https://www.health.govt.nz/system/files/documents/pages/nz_covid_tracer_pia_18_may_2020.pdf) shows that the NZ Covid Tracer app directly addresses limitations identified in the NCTS contact tracing - making it a helpful app even in its current form.
+- Future improvements indicated in the [Privacy Impact Statement](https://www.health.govt.nz/system/files/documents/pages/nz_covid_tracer_pia_18_may_2020.pdf) and on [their FAQ](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-general-public/contact-tracing-covid-19/nz-covid-tracer-app/nz-covid-tracer-app-questions-and-answers) indicate helpful enhancements are on the way such as some form of ‘exposure’ event notification and the ability later this month to *"allow developers of other contact tracing apps to use the NZ COVID Tracer QR codes and provide contact tracing data to the Ministry”.*
+- It does seem to me, at least until exposure event notification is added, that businesses using an additional approach alongside the NZ Covid Tracer approach seems advisable - this could potentially be done smoothly using the specifications to allow developers of other contact tracing apps to use NZ Covid Tracer QR codes as I just mentioned.
+- **Overall, I think the NZ Covid Tracer app has a commendable strong emphasis on privacy and at the same time usage of it will be greatly helpful to the NCTS.**
