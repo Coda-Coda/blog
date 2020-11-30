@@ -6,6 +6,7 @@ Open Scope Z.
 (* end hide *)
 
 (** * Correctness of a Simple Compiler *)
+(* By Daniel Britten,  The University of Waikato *)
 
 (**
 Based upon the example discussed by Professor Graham Hutton on Computerphile on November 27: %\url{https://youtu.be/T_IINWzQhow}% #<a href='https://youtu.be/T_IINWzQhow'>https://youtu.be/T_IINWzQhow</a>#  
